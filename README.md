@@ -8,12 +8,12 @@ is then exported from the data warehouse to create a [tableau dashboard](https:/
 
 ## <ins>AWS Cloud Diagram</ins>
 
-[AWS Architecture](aws_cloud_diagram.jpg)
+![AWS Architecture](aws_cloud_diagram.jpg)
 
 ## <ins>Redshift DW Dimensional Model</ins>
 
-[DW DDM](covid_dw_dim_diagram.jpg)
+![DW DDM](covid_dw_dim_diagram.jpg)
 
 ## <ins>Covid Dashboard</ins>
 
-[![Covid Dashboard](dashboard.jpg)](https://public.tableau.com/app/profile/joseph.hernandez8168/viz/Covid-DE-Dashboard/Dashboard1)
+[![Covid Dashboard](dashboard.jpg)(https://public.tableau.com/app/profile/joseph.hernandez8168/viz/Covid-DE-Dashboard/Dashboard1)
