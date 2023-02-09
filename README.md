@@ -16,4 +16,4 @@ is then exported from the data warehouse to create a [tableau dashboard](https:/
 
 ## <ins>Covid Dashboard</ins>
 
-[![Covid Dashboard](dashboard.jpg)dashboard](https://public.tableau.com/app/profile/joseph.hernandez8168/viz/Covid-DE-Dashboard/Dashboard1)
+[<img src="dashboard.jpg">](https://public.tableau.com/app/profile/joseph.hernandez8168/viz/Covid-DE-Dashboard/Dashboard1)
